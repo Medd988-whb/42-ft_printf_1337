@@ -39,7 +39,7 @@
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/Medd988-whb/42-ft_printf_1337.git 42-ft_printf_1337 
+git clone https://github.com/Mohaben-1/42-ft_printf_1337.git
 cd 42-ft_printf_1337  
 ```  
 
